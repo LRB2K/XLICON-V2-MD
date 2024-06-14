@@ -576,10 +576,10 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "XLICON-V2",
+                        title: "LRB2K",
                         body: "welcome to our Group",
                         thumbnailUrl: welcomeApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk',
+                        sourceUrl: 'https://chat.whatsapp.com/ItnrFqhhAodBRmZUSQCKET',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
@@ -629,10 +629,10 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "XLICON-V2 BOT",
+                        title: "LRB2K BOT",
                         body: "Goodbye from our Group",
                         thumbnailUrl: leaveApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW',
+                        sourceUrl: 'https://chat.whatsapp.com/ItnrFqhhAodBRmZUSQCKET',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
