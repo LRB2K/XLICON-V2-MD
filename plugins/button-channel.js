@@ -6,11 +6,11 @@ let handler = async m => {
   let imgurl = await uploadImage(imageBuffer)
   
   const messageContent = `
-  ╭⭑⭑⭑★✪ *XLICON* ✪★⭑⭑⭑
-  │ 📂 *BOT Name:* _XLICON-V2-MD_
-  │ 📝 *Description:* _I'm XLICON-V2. A MultiDevice WhatsApp bot with rich features Created By SALMAN AMAD and Abraham Dwamena._
-  │ 👤 *Owner:* _Salman Ahmad_
-  │ 🌐 *Channel:* https://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e
+  ╭⭑⭑⭑★✪ *LRB2K* ✪★⭑⭑⭑
+  │ 📂 *BOT Name:* LRB2K
+  │ 📝 *Description:* _I'm LRB2K. A MultiDevice WhatsApp bot with rich features Created By LRB2K.
+  │ 👤 *Owner:* LRB2K
+  │ 🌐 *Channel:* null
   ╰━━━━━━━━━━━━━━━━╯
   `.trim()
   const imageBuffer = await response.buffer()
